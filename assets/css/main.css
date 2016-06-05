@@ -645,6 +645,16 @@ body .header {
 	text-align: center;
 	margin-top: -10px;
 }
+#services p {
+	text-align: center;
+	color: teal;
+}
+#services H2 {
+	color: teal;
+}
+#services H3 {
+	color: teal;
+}
 
 }
 
