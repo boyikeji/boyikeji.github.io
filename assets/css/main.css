@@ -297,6 +297,7 @@ a:before, a:after {
 	padding: 60px 0;
 	text-align: center;
 	background-size: cover;
+
 }
 #services .fa {
 	color: #c0ed5d;
@@ -623,6 +624,16 @@ body .header {
 	color: #666;
 	text-align: center;
 	margin-top: -10px;
+}
+#services p {
+	text-align: center;
+	color: teal;
+}
+#services H2 {
+	color: teal;
+}
+#services H3 {
+	color: teal;
 }
 
 }
