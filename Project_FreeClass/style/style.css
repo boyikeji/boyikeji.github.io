@@ -1,0 +1,26 @@
+*{
+	padding: 0px;
+	margin: 0px;
+} 
+.box{
+	display: block;
+	height: 1.5rem;
+	padding: 0.2rem;
+	border-bottom: 1px solid #ccc;
+}
+
+.free-img{
+	height: 1.5rem;
+	width: 2.7rem;
+	float: left;
+}
+.free-p{
+	float: left;
+	font-size: 0.25rem;
+	color: #000;
+	margin-left: 0.1rem;
+}
+.free-p>span{
+	font-size: 0.05rem;
+	color: #555;
+}
